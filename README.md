@@ -4,5 +4,5 @@ This repository contains the code for Coursera's [Functional Programming Princip
 
 If you find this repository useful you'll probably will also be interested in [Notes on Functional Programming Principles in Scala MOOC][02].
 
-01: https://www.coursera.org/course/progfun
-02: https://github.com/almata/SENotebook/blob/master/Scala/notes-on-functional-programming-principles-in-scala-mooc.md
+[01]: https://www.coursera.org/course/progfun
+[02]: https://github.com/almata/SENotebook/blob/master/Scala/notes-on-functional-programming-principles-in-scala-mooc.md
